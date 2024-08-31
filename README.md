@@ -94,7 +94,7 @@ dans l'optique d'une mise en production de la phase 2, et donc de l'augmentation
 
 Cloner le repository:
 
-- git clone https://github.com/daddyjanno/Argent-Bank
+- git clone https://github.com/maeva-gally/argent-bank-main
 
 ### Installation et lancement du Back-end :
 
