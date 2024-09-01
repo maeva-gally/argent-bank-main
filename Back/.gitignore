@@ -33,6 +33,3 @@ node_modules
 # Runtime configuration for swagger app
 config/runtime.yaml
 
-.DS_Store
-
-Projet 13/Back-end
