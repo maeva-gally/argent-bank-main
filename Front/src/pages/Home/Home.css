@@ -1,0 +1,15 @@
+.features {
+  display: flex;
+  margin-bottom: 0.625rem;
+  width: 100%;
+}
+@media (max-width: 920px) {
+  .features {
+    flex-direction: column;
+  }
+}
+@media (min-width: 1900px) {
+  .features {
+    min-height: 410px;
+  }
+}/*# sourceMappingURL=Home.css.map */

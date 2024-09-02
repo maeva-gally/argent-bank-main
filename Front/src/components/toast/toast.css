@@ -1,0 +1,16 @@
+.toast {
+  position: fixed;
+  bottom: 1%;
+  right: 1%;
+  transform: translateX(-50%);
+  background: rgb(220, 38, 38);
+  padding: 30px;
+  color: white;
+  border: 1px solid rgb(220, 38, 38);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}/*# sourceMappingURL=toast.css.map */
